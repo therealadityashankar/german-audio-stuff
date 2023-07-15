@@ -1,0 +1,108 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Lisa",
+         "de_text": "Guckt eigentlich jemand von euch Bundesliga?",
+         "en_text": "Does anyone of you watch Bundesliga?",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Ich schaue ab und zu ein Spiel, aber verfolge es nicht so sehr.",
+         "en_text": "I watch a game from time to time, but don't follow it that much.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Bundesliga kann wirklich spannend sein.",
+         "en_text": "Bundesliga can be really exciting.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Matthias",
+         "de_text": "Ja, aber es gibt auch eine Menge Probleme.",
+         "en_text": "Yes, but there are also a lot of problems.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Was meinst du damit, Matthias?",
+         "en_text": "What do you mean, Matthias?",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Matthias",
+         "de_text": "Naja, es gibt zum Beispiel die Diskussion um zu hohe Ticketpreise.",
+         "en_text": "Well, for example, there is the discussion about ticket prices being too high.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Lisa",
+         "de_text": "Ja, das stimmt. Ich finde es auch schade, dass es nur wenige Frauen im Fu\u00dfball gibt.",
+         "en_text": "Yes, that's true. I also find it sad that there are only a few women in football.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Es gibt zwar immer mehr Frauen-Mannschaften, aber es dauert noch, bis sie auch die Aufmerksamkeit bekommen, die sie verdienen.",
+         "en_text": "Although there are more and more women's teams, but it takes time until they get the attention they deserve.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Es ist aber sch\u00f6n zu sehen, wie sich der Fu\u00dfball immer weiterentwickelt und auch in puncto Diversit\u00e4t Fortschritte macht.",
+         "en_text": "But it's nice to see how football is constantly developing and making progress in terms of diversity.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Ich finde es auch erstaunlich, wie die Technik im Fu\u00dfball immer fortschrittlicher wird.",
+         "en_text": "I also find it amazing how technology in football is getting more and more advanced.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Matthias",
+         "de_text": "Ja, das stimmt. Aber ich hoffe, dass es sich nicht nur um Technik dreht, sondern dass die Werte und Fairness im Fu\u00dfball immer im Vordergrund bleiben.",
+         "en_text": "Yes, that's true. But I hope that it's not just about technology, but that values and fairness always stay in the forefront in football.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Lisa",
+         "de_text": "Das ist ein wichtiger Punkt, Matthias. Aber ich denke, dass es immer Menschen geben wird, die den Fu\u00dfball sportlich und fair gestalten wollen.",
+         "en_text": "That's an important point, Matthias. But I think that there will always be people who want to make football sportsmanlike and fair.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Genau. Und das ist es ja, was uns alle begeistert und wof\u00fcr wir uns leidenschaftlich einsetzen.",
+         "en_text": "Exactly. And that's what inspires us all and what we passionately commit ourselves to.",
+         "conversation_theme": "Football (soccer) and Bundesliga"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Lisa",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Anna",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Matthias",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Johannes",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Felix",
+            "gender": "Male"
+         }
+      ]
+   }
+}

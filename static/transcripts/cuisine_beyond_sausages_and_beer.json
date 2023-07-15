@@ -1,0 +1,66 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Hannah",
+         "de_text": "Also ich finde ja die deutsche K\u00fcche hat viel mehr zu bieten als nur Wurst und Bier.",
+         "en_text": "I actually think that German cuisine has much more to offer than just sausages and beer.",
+         "conversation_theme": "Cuisine beyond sausages and beer"
+      },
+      {
+         "speaker_name": "Sarah",
+         "de_text": "Das stimmt. Gerade die regionalen Spezialit\u00e4ten sind oft sehr interessant.",
+         "en_text": "That's true. Especially the regional specialties are often very interesting.",
+         "conversation_theme": "Cuisine beyond sausages and beer"
+      },
+      {
+         "speaker_name": "Jakob",
+         "de_text": "Aber wir d\u00fcrfen auch nicht vergessen, dass die deutsche K\u00fcche auch ihre Probleme hat, beispielsweise was den Umgang mit Tieren angeht.",
+         "en_text": "But we mustn't forget that German cuisine also has its problems, for example, in terms of how we treat animals.",
+         "conversation_theme": "Cuisine beyond sausages and beer"
+      },
+      {
+         "speaker_name": "Maximilian",
+         "de_text": "Das ist wahr, aber ich denke, dass es auch positive Entwicklungen in diesem Bereich gibt. Immer mehr Restaurants setzen auf Bio- und regionale Produkte.",
+         "en_text": "That's true, but I think there are also positive developments in this area. More and more restaurants are using organic and regional products.",
+         "conversation_theme": "Cuisine beyond sausages and beer"
+      },
+      {
+         "speaker_name": "Finn",
+         "de_text": "Ich finde es generell toll, wie die deutsche K\u00fcche sich ver\u00e4ndert und weiterentwickelt hat. Es gibt mittlerweile so viele innovative Gerichte, die man probieren kann.",
+         "en_text": "I think it's great how German cuisine has changed and evolved. There are now so many innovative dishes that one can try.",
+         "conversation_theme": "Cuisine beyond sausages and beer"
+      },
+      {
+         "speaker_name": "Hannah",
+         "de_text": "Auf jeden Fall. Ich denke, es ist wichtig, dass wir uns immer wieder neuen Entwicklungen gegen\u00fcber aufgeschlossen zeigen und uns von alten Klischees l\u00f6sen.",
+         "en_text": "Absolutely. I think it's important that we remain open to new developments and break away from old clich\u00e9s.",
+         "conversation_theme": "Cuisine beyond sausages and beer"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Hannah",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Sarah",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Jakob",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Maximilian",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Finn",
+            "gender": "Male"
+         }
+      ]
+   }
+}

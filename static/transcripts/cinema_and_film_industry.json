@@ -1,0 +1,86 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Lisa",
+         "de_text": "Ich liebe Filme und w\u00fcrde gerne wissen, was jeder \u00fcber die Filmindustrie in Deutschland denkt.",
+         "en_text": "I love movies and I'd like to know what everyone thinks about the film industry in Germany.",
+         "conversation_theme": "Cinema and film industry"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Ich denke, dass die Filmindustrie in Deutschland einige probleme hat, besonders wenn es um Finanzierung geht. Es ist schwierig, eine gute Finanzierung f\u00fcr einen Film zu bekommen.",
+         "en_text": "I think the film industry in Germany has some problems, especially when it comes to financing. It's difficult to get good financing for a movie.",
+         "conversation_theme": "Cinema and film industry"
+      },
+      {
+         "speaker_name": "Julia",
+         "de_text": "Das stimmt, aber ich finde wir haben auch talentierte Schauspieler, die f\u00fcr eine bemerkenswerte Qualit\u00e4t der Filme sorgen.",
+         "en_text": "That's true, but I think we also have talented actors who ensure remarkable quality of the movies.",
+         "conversation_theme": "Cinema and film industry"
+      },
+      {
+         "speaker_name": "Klaus",
+         "de_text": "Viele Menschen bevorzugen internationale Filme gegen\u00fcber deutschen Filmen. Das ist einer der Gr\u00fcnde, warum es schwer ist, eine gute Finanzierung f\u00fcr deutsche Filme zu bekommen.",
+         "en_text": "Many people prefer international movies over German movies. That's one of the reasons why it's hard to get good financing for German movies.",
+         "conversation_theme": "Cinema and film industry"
+      },
+      {
+         "speaker_name": "Maximilian",
+         "de_text": "Ich denke, dass wir mehr deutsche Filme brauchen, die sich um aktuelle Themen drehen, um eine gr\u00f6\u00dfere Reichweite zu erlangen.",
+         "en_text": "I think we need more German movies that revolve around current issues to gain more reach.",
+         "conversation_theme": "Cinema and film industry"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Das stimmt, meine Freunde gucken lieber amerikanische Filme als deutsche Filme, weil sie sich mit den Hollywood-Filmen besser identifizieren k\u00f6nnen.",
+         "en_text": "That's true, my friends prefer watching American movies over German movies because they can identify better with Hollywood movies.",
+         "conversation_theme": "Cinema and film industry"
+      },
+      {
+         "speaker_name": "Hans",
+         "de_text": "Ich denke immer noch, dass deutsche Filme gro\u00dfes Potenzial haben wenn sie gut gemacht werden. Wir m\u00fcssen nur mehr f\u00fcr ihre Promotion und Bekanntheit tun.",
+         "en_text": "I still think German movies have great potential if they are well-made. We just need to do more for their promotion and recognition.",
+         "conversation_theme": "Cinema and film industry"
+      },
+      {
+         "speaker_name": "Lisa",
+         "de_text": "Ich finde es toll, wie jeder verschiedene Ansichten \u00fcber die Filmindustrie in Deutschland hat. Wir haben definitiv einige wichtige Punkte diskutiert.",
+         "en_text": "I love how everyone has different views on the film industry in Germany. We definitely discussed some important points.",
+         "conversation_theme": "Cinema and film industry"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 3,
+      "num_male_speakers": 4,
+      "speakers": [
+         {
+            "speaker": "Lisa",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Julia",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Anna",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Maximilian",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Hans",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Klaus",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Johannes",
+            "gender": "Male"
+         }
+      ]
+   }
+}

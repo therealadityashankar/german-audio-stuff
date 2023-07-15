@@ -1,0 +1,132 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Maria",
+         "de_text": "Hallo zusammen, habt ihr am Wochenende Pl\u00e4ne? Was sind eure Freizeitaktivit\u00e4ten und Hobbys?",
+         "en_text": "Hi everyone, do you have any plans for the weekend? What are your leisure activities and hobbies?",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Lena",
+         "de_text": "Ich gehe gerne ins Kino oder treffe mich mit Freunden zum Essen.",
+         "en_text": "I like going to the movies or meeting friends for dinner.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "Ich gehe gerne wandern und mache auch gerne Sport.",
+         "en_text": "I like hiking and also enjoy doing sports.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Tobias",
+         "de_text": "Ich bin gerne auf Reisen und probiere gerne neue Dinge aus.",
+         "en_text": "I like traveling and trying out new things.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Ich mag Kunst und spiele auch gerne Musik.",
+         "en_text": "I like art and also enjoy playing music.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Maria",
+         "de_text": "Das klingt gro\u00dfartig. Aber ich denke, es kann manchmal schwierig sein, Zeit f\u00fcr unsere Hobbys zu finden. Wie geht ihr damit um?",
+         "en_text": "That sounds great. But I think it can sometimes be difficult to find time for our hobbies. How do you deal with it?",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Lena",
+         "de_text": "Ich versuche, eine gute Balance zwischen Arbeit und Freizeit zu finden. Ich plane meine Woche im Voraus und reserviere Zeit f\u00fcr meine Hobbys.",
+         "en_text": "I try to find a good balance between work and leisure. I plan my week in advance and reserve time for my hobbies.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "Ich denke, es ist wichtig, Priorit\u00e4ten zu setzen. Ich versuche, meine Freizeitaktivit\u00e4ten genauso wichtig zu machen wie meine Arbeit.",
+         "en_text": "I think it's important to set priorities. I try to make my leisure activities just as important as my work.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Tobias",
+         "de_text": "Ich stimme Max zu. Ich denke, dass man seine Hobbys nicht vernachl\u00e4ssigen sollte, da sie dazu beitragen k\u00f6nnen, dass man gl\u00fccklicher und ausgeglichener wird.",
+         "en_text": "I agree with Max. I think we shouldn't neglect our hobbies, as they can help us become happier and more balanced.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Ich denke, dass Hobbys eine gro\u00dfartige M\u00f6glichkeit sind, um unsere Kreativit\u00e4t zu f\u00f6rdern und uns von unserem Alltag zu erholen.",
+         "en_text": "I think hobbies are a great way to nurture our creativity and unwind from our everyday life.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Maria",
+         "de_text": "Ja, das stimmt. Aber ich glaube auch, dass es wichtig ist, unsere Komfortzone zu verlassen und neue Dinge auszuprobieren.",
+         "en_text": "Yes, that's true. But I also believe it's important to step out of our comfort zone and try new things.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Lena",
+         "de_text": "Ich habe vor kurzem Yoga ausprobiert, was ich vorher nie getan habe. Es hat mir wirklich gut getan.",
+         "en_text": "I recently tried yoga, which I haven't done before. It really did me good.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "Ich stimme dir zu, Maria. Neue Dinge auszuprobieren kann uns helfen zu wachsen und uns lebendig zu f\u00fchlen.",
+         "en_text": "I agree with you, Maria. Trying new things can help us grow and feel alive.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Tobias",
+         "de_text": "Ich denke, dass das \u00dcben von Selbstf\u00fcrsorge und die Verfolgung unserer Leidenschaften uns die Energie geben, die wir brauchen, um erfolgreich zu sein.",
+         "en_text": "I think practicing self-care and pursuing our passions gives us the energy we need to be successful.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Ich w\u00fcrde gerne mehr Zeit haben, um meine kreative Seite zu erforschen. Ich f\u00fchle mich manchmal eingeschr\u00e4nkt durch meine Arbeit.",
+         "en_text": "I would like to have more time to explore my creative side. Sometimes I feel limited by my work.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Maria",
+         "de_text": "Ich denke, das ist normal. Aber wir k\u00f6nnen versuchen, unsere Arbeit und unsere Hobbys auf sinnvolle Weise zu kombinieren. Vielleicht gibt es M\u00f6glichkeiten, unsere Leidenschaften in unsere Arbeit zu integrieren.",
+         "en_text": "I think that's normal. But we can try to combine our work and hobbies in a meaningful way. Maybe there are ways to integrate our passions into our work.",
+         "conversation_theme": "Leisure activities and hobbies"
+      },
+      {
+         "speaker_name": "Lena",
+         "de_text": "Ja, das k\u00f6nnte eine gro\u00dfartige Idee sein. Ich denke, wir sollten alle versuchen, unsere Leidenschaften zu nutzen, um uns zu motivieren und unser Leben reicher zu gestalten.",
+         "en_text": "Yes, that could be a great idea. I think we should all try to use our passions to motivate us and make our lives richer.",
+         "conversation_theme": "Leisure activities and hobbies"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Maria",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Lena",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Max",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Tobias",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Johannes",
+            "gender": "Male"
+         }
+      ]
+   }
+}

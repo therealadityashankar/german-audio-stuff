@@ -1,0 +1,96 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Sabine",
+         "de_text": "Ich liebe Literatur. Es ist so faszinierend zu sehen, was andere Menschen geschrieben haben und wie ihre Gedanken sich durch verschiedene Werke entwickelt haben.",
+         "en_text": "I love literature. It is so fascinating to see what other people have written and how their thoughts have developed through various works.",
+         "conversation_theme": "Literature and famous authors"
+      },
+      {
+         "speaker_name": "Elisabeth",
+         "de_text": "Ja, das stimmt. Insbesondere fasziniert mich, wie Autoren verschiedene Geschichten miteinander verweben k\u00f6nnen und wie sie es schaffen, dass der Leser immer weiterlesen m\u00f6chte.",
+         "en_text": "Yes, that's true. I am particularly fascinated by how authors can interweave different stories and how they manage to make the reader wanting to read further.",
+         "conversation_theme": "Literature and famous authors"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Aber welche Autoren sind die bekanntesten?",
+         "en_text": "But which authors are the most famous?",
+         "conversation_theme": "Literature and famous authors"
+      },
+      {
+         "speaker_name": "Franz",
+         "de_text": "Es gibt so viele bekannte Autoren. Aber ich denke, dass Charles Dickens und Jane Austen zu den ber\u00fchmtesten geh\u00f6ren.",
+         "en_text": "There are so many famous authors, but I believe that Charles Dickens and Jane Austen are some of the most well-known.",
+         "conversation_theme": "Literature and famous authors"
+      },
+      {
+         "speaker_name": "Karl",
+         "de_text": "Ich mag auch Ernest Hemingway. Seine Art des Schreibens hat mich schon immer beeindruckt.",
+         "en_text": "I also like Ernest Hemingway. His way of writing has always impressed me.",
+         "conversation_theme": "Literature and famous authors"
+      },
+      {
+         "speaker_name": "Sabine",
+         "de_text": "Aber es gibt auch einige Probleme in der Literaturindustrie. Viele Autoren k\u00e4mpfen darum, ihr Buch erfolgreich zu ver\u00f6ffentlichen.",
+         "en_text": "But there are also some issues in the literature industry. Many authors struggle to get their book successfully published.",
+         "conversation_theme": "Literature and famous authors"
+      },
+      {
+         "speaker_name": "Elisabeth",
+         "de_text": "Ja, das ist wahr. Die Verlage suchen oft nur nach bekannten Autoren, die erfolgreich sind. Das macht es schwierig f\u00fcr neue Talente.",
+         "en_text": "Yes, that's true. Publishers often only look for well-known authors who are successful. That makes it difficult for new talent.",
+         "conversation_theme": "Literature and famous authors"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Ich stimme dir zu, Elisabeth. Aber es gibt auch immer noch die M\u00f6glichkeit, im Self-Publishing zu ver\u00f6ffentlichen.",
+         "en_text": "I agree with you, Elisabeth. But there is also still the possibility to publish through self-publishing.",
+         "conversation_theme": "Literature and famous authors"
+      },
+      {
+         "speaker_name": "Franz",
+         "de_text": "Und es gibt unabh\u00e4ngige Verlage, die junge talentierte Autoren unterst\u00fctzen und ver\u00f6ffentlichen.",
+         "en_text": "And there are independent publishers who support and publish young talented authors.",
+         "conversation_theme": "Literature and famous authors"
+      },
+      {
+         "speaker_name": "Karl",
+         "de_text": "Ich denke, das Wichtigste ist, dass die Autoren in ihrer Arbeit authentisch bleiben und ihre eigene Stimme finden.",
+         "en_text": "I believe the most important thing is that authors stay authentic in their work and find their own voice.",
+         "conversation_theme": "Literature and famous authors"
+      },
+      {
+         "speaker_name": "Sabine",
+         "de_text": "Ja, das ist ein guter Punkt, Karl. Wenn sie dies tun, wird ihr Buch auf jeden Fall lesenswert sein.",
+         "en_text": "Yes, that's a good point, Karl. If they do this, their book will definitely be worth reading.",
+         "conversation_theme": "Literature and famous authors"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Sabine",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Elisabeth",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Johannes",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Franz",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Karl",
+            "gender": "Male"
+         }
+      ]
+   }
+}

@@ -1,0 +1,96 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Maria",
+         "de_text": "Hallo zusammen, ich bin neulich auf einen Artikel \u00fcber K\u00fcnstler gesto\u00dfen, die \u00fcberhaupt kein Interesse an ihrem Ber\u00fchmtheitsgrad haben. Was haltet ihr davon, gibt es wirklich solche K\u00fcnstler?",
+         "en_text": "Hi everyone, I recently came across an article about artists who have no interest in their level of fame. What do you think about that, do such artists really exist?",
+         "conversation_theme": "Art and famous artists"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Ich glaube es gibt solche K\u00fcnstler, die wirklich nur f\u00fcr die Kunst schaffen und keine Ber\u00fchmtheit anstreben. Aber das ist eher die Ausnahme.",
+         "en_text": "I think there are such artists who create solely for the art and don't strive for fame. But that's more of an exception.",
+         "conversation_theme": "Art and famous artists"
+      },
+      {
+         "speaker_name": "Katja",
+         "de_text": "Leider ist es so, dass viele K\u00fcnstler gezwungen sind, auf ihren Bekanntheitsgrad zu achten, um \u00fcberhaupt von ihrer Kunst leben zu k\u00f6nnen.",
+         "en_text": "Unfortunately, many artists are forced to pay attention to their level of fame just to be able to make a living from their art.",
+         "conversation_theme": "Art and famous artists"
+      },
+      {
+         "speaker_name": "Hans",
+         "de_text": "Ja, das stimmt. Aber man darf auch nicht vergessen, dass es viele K\u00fcnstler gibt, die durch ihre Ber\u00fchmtheit in der Kunstszene eine Plattform gefunden haben, um auf wichtige Themen aufmerksam zu machen.",
+         "en_text": "Yes, that's true. But we mustn't forget that there are many artists who have found a platform to draw attention to important issues within the art world through their level of fame.",
+         "conversation_theme": "Art and famous artists"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "Ich denke, dass es wichtig ist, als K\u00fcnstler eine klare Vision und Absicht zu haben, egal welche Richtung man einschl\u00e4gt. Der Ber\u00fchmtheitsgrad sollte dabei zweitrangig sein.",
+         "en_text": "I think it's important for artists to have a clear vision and purpose, regardless of which direction they take. The level of fame should be secondary.",
+         "conversation_theme": "Art and famous artists"
+      },
+      {
+         "speaker_name": "Maria",
+         "de_text": "Interessanter Punkt. Ich denke auch, dass es auf den inneren Antrieb eines K\u00fcnstlers ankommt. Was sie wirklich bewegt und antreibt l\u00e4sst sie erfolgreich sein, unabh\u00e4ngig von der Ber\u00fchmtheit.",
+         "en_text": "Interesting point. I also think that it depends on the inner drive of an artist. What truly motivates and drives them is what makes them successful, regardless of fame.",
+         "conversation_theme": "Art and famous artists"
+      },
+      {
+         "speaker_name": "Katja",
+         "de_text": "Ja, manchmal kann der Druck und das Streben nach Ber\u00fchmtheit die eigentliche Leidenschaft der Kunst zerst\u00f6ren.",
+         "en_text": "Yes, sometimes the pressure and the striving for fame can destroy the true passion of art.",
+         "conversation_theme": "Art and famous artists"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Absolut, es gibt viele Beispiele von K\u00fcnstlern, die durch den Trubel und ihre Popularit\u00e4t ihren eigentlichen Sinn f\u00fcr Kunst verloren haben.",
+         "en_text": "Absolutely, there are many examples of artists who have lost their true sense of art through the chaos and their popularity.",
+         "conversation_theme": "Art and famous artists"
+      },
+      {
+         "speaker_name": "Hans",
+         "de_text": "Ich denke, dass es wichtig ist, den Fokus nicht auf den Erfolg und die Bekanntheit zu legen, sondern darauf, wie man durch seine Kunst einen positiven Einfluss auf die Welt haben kann.",
+         "en_text": "I think it's important not to focus on success and fame, but on how one's art can have a positive impact on the world.",
+         "conversation_theme": "Art and famous artists"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "In der Tat, die Kunst ist etwas, das Menschen zusammenbringt und unabh\u00e4ngig von ihrer Ber\u00fchmtheit eine starke emotionale Wirkung haben kann.",
+         "en_text": "Indeed, art is something that brings people together and can have a strong emotional impact regardless of fame.",
+         "conversation_theme": "Art and famous artists"
+      },
+      {
+         "speaker_name": "Maria",
+         "de_text": "Ein toller Gedanke. Wir sollten uns mehr auf den positiven Einfluss konzentrieren, den Kunst auf unser Leben hat, anstatt uns auf den Ruhm zu beschr\u00e4nken.",
+         "en_text": "A great thought. We should focus more on the positive impact that art has on our lives, rather than limiting ourselves to fame.",
+         "conversation_theme": "Art and famous artists"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Maria",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Katja",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Hans",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Felix",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Max",
+            "gender": "Male"
+         }
+      ]
+   }
+}

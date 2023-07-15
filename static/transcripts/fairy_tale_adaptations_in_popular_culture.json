@@ -1,0 +1,90 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Lena",
+         "de_text": "Ich finde es interessant, wie viele M\u00e4rchen-Adaptionen es in der Popul\u00e4rkultur gibt.",
+         "en_text": "I find it interesting how many fairy tale adaptations there are in popular culture.",
+         "conversation_theme": "Fairy tale adaptations in popular culture"
+      },
+      {
+         "speaker_name": "Sabine",
+         "de_text": "Ja, vor allem gibt es viele moderne Interpretationen von klassischen M\u00e4rchen.",
+         "en_text": "Yes, especially there are many modern interpretations of classic fairy tales.",
+         "conversation_theme": "Fairy tale adaptations in popular culture"
+      },
+      {
+         "speaker_name": "Klaus",
+         "de_text": "Aber viele dieser Adaptionen nehmen die urspr\u00fcngliche Botschaft des M\u00e4rchens nicht ernst genug.",
+         "en_text": "But many of these adaptations don't take the original message of the fairy tale seriously enough.",
+         "conversation_theme": "Fairy tale adaptations in popular culture"
+      },
+      {
+         "speaker_name": "Heinz",
+         "de_text": "Das stimmt. Die Moral oder die Lehre des M\u00e4rchens geht oft im Spektakel der Adaption verloren.",
+         "en_text": "That's true. The moral or the lesson of the fairy tale often gets lost in the spectacle of the adaptation.",
+         "conversation_theme": "Fairy tale adaptations in popular culture"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "Aber andererseits k\u00f6nnen Adaptionen dabei helfen, die Botschaften der alten M\u00e4rchen f\u00fcr ein modernes Publikum zug\u00e4nglicher zu machen.",
+         "en_text": "But on the other hand, adaptations can help make the messages of the old fairy tales more accessible to a modern audience.",
+         "conversation_theme": "Fairy tale adaptations in popular culture"
+      },
+      {
+         "speaker_name": "Lena",
+         "de_text": "Ja, richtig. Eine gute Adaption kann eine alte Geschichte aktualisieren und es den Zuschauern erm\u00f6glichen, sich besser in die Charaktere hineinzuversetzen.",
+         "en_text": "Yes, that's right. A good adaptation can update an old story and allow viewers to better empathize with the characters.",
+         "conversation_theme": "Fairy tale adaptations in popular culture"
+      },
+      {
+         "speaker_name": "Sabine",
+         "de_text": "Das Problem ist, dass einige Adaptionen einfach nur oberfl\u00e4chliche Ver\u00e4nderungen an der Geschichte vornehmen und sich wenig M\u00fche geben, eine tiefgr\u00fcndige Aussage zu machen.",
+         "en_text": "The problem is that some adaptations just make superficial changes to the story and make little effort to make a profound statement.",
+         "conversation_theme": "Fairy tale adaptations in popular culture"
+      },
+      {
+         "speaker_name": "Klaus",
+         "de_text": "Eine gute Adaption sollte auch die Gesellschaftsprobleme adressieren, die im Originalm\u00e4rchen behandelt werden, wie zum Beispiel Armut oder Rassismus.",
+         "en_text": "A good adaptation should also address the societal issues that are dealt with in the original fairy tale, such as poverty or racism.",
+         "conversation_theme": "Fairy tale adaptations in popular culture"
+      },
+      {
+         "speaker_name": "Heinz",
+         "de_text": "Aber Adaptionen k\u00f6nnen auch eine Chance sein, M\u00e4rchen, die vernachl\u00e4ssigt werden, zur\u00fcck ins Rampenlicht zu bringen.",
+         "en_text": "But adaptations can also be an opportunity to bring back into the spotlight fairy tales that are neglected.",
+         "conversation_theme": "Fairy tale adaptations in popular culture"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "Und letztlich gibt es auch einfach Adaptionen, die unterhaltsam sind, ohne eine tiefe oder komplexe Botschaft zu haben.",
+         "en_text": "And ultimately, there are also simply adaptations that are entertaining without having a deep or complex message.",
+         "conversation_theme": "Fairy tale adaptations in popular culture"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Lena",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Sabine",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Klaus",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Heinz",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Max",
+            "gender": "Male"
+         }
+      ]
+   }
+}

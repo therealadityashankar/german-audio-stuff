@@ -1,0 +1,98 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Katja",
+         "de_text": "Hallo alle zusammen, ich denke, wir sollten \u00fcber unsere Beitr\u00e4ge zur Wissenschaft und Forschung sprechen.",
+         "en_text": "Hello everyone, I think we should talk about our contributions to science and research.",
+         "conversation_theme": "Contributions to science and research"
+      },
+      {
+         "speaker_name": "Anke",
+         "de_text": "Ich bin da vollkommen einverstanden. Ich denke, wir alle haben auf unsere Weise einen Beitrag geleistet.",
+         "en_text": "I completely agree. I think we have all made a contribution in our own way.",
+         "conversation_theme": "Contributions to science and research"
+      },
+      {
+         "speaker_name": "Sophie",
+         "de_text": "Ja, ich denke auch. Aber ich denke, es gibt immer noch viele Herausforderungen, insbesondere f\u00fcr Frauen in der Forschungswelt.",
+         "en_text": "Yes, I think so too. But I think there are still many challenges, especially for women in the research world.",
+         "conversation_theme": "Contributions to science and research"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Ja, das stimmt. Wir m\u00fcssen sicherstellen, dass alle, unabh\u00e4ngig von Geschlecht, in der Lage sind, in der Wissenschaft erfolgreich zu sein.",
+         "en_text": "Yes, that's true. We need to ensure that everyone, regardless of gender, is able to succeed in science.",
+         "conversation_theme": "Contributions to science and research"
+      },
+      {
+         "speaker_name": "Maximilian",
+         "de_text": "Ich denke, dass wir auch unsere Bem\u00fchungen unterst\u00fctzen sollten, um die Auswirkungen der Wissenschaft auf die Gesellschaft zu verbessern.",
+         "en_text": "I think we should also support our efforts to improve the impact of science on society.",
+         "conversation_theme": "Contributions to science and research"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Aber oft sind die Ver\u00e4nderungen, die wir bewirken wollen, schwer zu erreichen.",
+         "en_text": "But often the changes we want to make are difficult to achieve.",
+         "conversation_theme": "Contributions to science and research"
+      },
+      {
+         "speaker_name": "Tobias",
+         "de_text": "Ich stimme dir zu, Felix. Aber wir d\u00fcrfen nicht aufgeben und m\u00fcssen weiterhin hart arbeiten, um unsere Ziele zu erreichen.",
+         "en_text": "I agree with you, Felix. But we must not give up and continue to work hard to achieve our goals.",
+         "conversation_theme": "Contributions to science and research"
+      },
+      {
+         "speaker_name": "Katja",
+         "de_text": "Ich denke, wir haben eine Verantwortung gegen\u00fcber der Gesellschaft, um sicherzustellen, dass unser Fortschritt auch ethisch vertretbar ist.",
+         "en_text": "I think we have a responsibility to society to ensure that our progress is also ethically justifiable.",
+         "conversation_theme": "Contributions to science and research"
+      },
+      {
+         "speaker_name": "Anke",
+         "de_text": "Ja, das ist ein wichtiger Punkt. Wir m\u00fcssen uns bewusst sein, dass unsere Forschung Auswirkungen auf die Welt haben kann und wir sollten sicherstellen, dass diese Auswirkungen positiv sind.",
+         "en_text": "Yes, that's an important point. We must be aware that our research can have an impact on the world and we should ensure that these impacts are positive.",
+         "conversation_theme": "Contributions to science and research"
+      },
+      {
+         "speaker_name": "Sophie",
+         "de_text": "Ich denke, wir haben viel Arbeit vor uns, aber ich bin dankbar, dass wir die M\u00f6glichkeit haben, etwas zu bewirken und zu ver\u00e4ndern.",
+         "en_text": "I think we have a lot of work ahead of us, but I'm grateful that we have the opportunity to make a difference and bring about change.",
+         "conversation_theme": "Contributions to science and research"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 3,
+      "num_male_speakers": 4,
+      "speakers": [
+         {
+            "speaker": "Katja",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Anke",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Sophie",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Johannes",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Maximilian",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Felix",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Tobias",
+            "gender": "Male"
+         }
+      ]
+   }
+}

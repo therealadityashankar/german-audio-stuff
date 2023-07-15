@@ -1,0 +1,96 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Lisa",
+         "de_text": "Hallo alle zusammen, heute m\u00f6chten wir \u00fcber moderne Literatur und beliebte Autoren sprechen.",
+         "en_text": "Hello everyone, today we want to talk about modern literature and popular authors.",
+         "conversation_theme": "Modern literature and popular authors"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Ich denke, Anna Todd hat viel Aufmerksamkeit auf sich gezogen. Obwohl es Kritik gab, war ihr Buch sehr erfolgreich.",
+         "en_text": "I think Anna Todd has drawn a lot of attention. Although there have been criticisms, her book has been very successful.",
+         "conversation_theme": "Modern literature and popular authors"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "Ja, es gibt immer Kritik, aber ich denke, das ist ein Zeichen daf\u00fcr, dass Leute B\u00fccher wirklich lesen und miteinander dar\u00fcber sprechen.",
+         "en_text": "Yes, there's always criticism, but I think that's a sign that people are really reading books and talking about them.",
+         "conversation_theme": "Modern literature and popular authors"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Ich bevorzuge Sachb\u00fccher anstelle von Romanen. Es gibt so viele Dinge zu lernen und ich denke, dass es mein Leben bereichern kann.",
+         "en_text": "I prefer non-fiction books over novels. There are so many things to learn and I think it can enrich my life.",
+         "conversation_theme": "Modern literature and popular authors"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Aber es gibt auch viele gro\u00dfartige Autoren, die gegenw\u00e4rtige Themen behandeln und den Lesern die M\u00f6glichkeit geben, ihre Perspektiven zu erweitern.",
+         "en_text": "But there are also many great authors who tackle contemporary issues and give readers the chance to broaden their perspectives.",
+         "conversation_theme": "Modern literature and popular authors"
+      },
+      {
+         "speaker_name": "Lisa",
+         "de_text": "Ich denke, ein Problem, dem sich moderne Autoren gegen\u00fcbersehen, ist die Konkurrenz von Massenmedien wie Fernsehen und Filmen. Es gibt so viele Unterhaltungsm\u00f6glichkeiten und ich denke, dass dies das Interesse am Lesen verringern kann.",
+         "en_text": "I think one problem modern authors face is competition from mass media such as TV and movies. There are so many entertainment options and I think this can reduce interest in reading.",
+         "conversation_theme": "Modern literature and popular authors"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Aber andererseits, gibt es auch viele Menschen, die gute B\u00fccher zu sch\u00e4tzen wissen. Sie suchen nach Qualit\u00e4t und m\u00f6chten tiefer in eine Geschichte und Charaktere eintauchen.",
+         "en_text": "But on the other hand, there are also many people who appreciate good books. They look for quality and want to delve deeper into a story and characters.",
+         "conversation_theme": "Modern literature and popular authors"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "Ich denke, es h\u00e4ngt auch von der Gesellschaft ab, in der man aufgewachsen ist. Wenn man in einer Lesekultur aufw\u00e4chst, wird man wahrscheinlich auch Interesse daran haben.",
+         "en_text": "I think it also depends on the society you grew up in. If you grow up in a reading culture, you're likely to be interested in it as well.",
+         "conversation_theme": "Modern literature and popular authors"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Das stimmt. Ich bin in einer Familie aufgewachsen, die viel Wert auf B\u00fccher gelegt hat. Meine Eltern haben uns immer vorgelesen und es hat mich auch zum Lesen animiert.",
+         "en_text": "That's true. I grew up in a family that placed a lot of value on books. My parents always read to us and it also inspired me to read.",
+         "conversation_theme": "Modern literature and popular authors"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Ja, das ist ein wichtiger Punkt. Eltern k\u00f6nnen einen gro\u00dfen Einfluss darauf haben, ob ihre Kinder B\u00fccher lesen oder nicht.",
+         "en_text": "Yes, that is an important point. Parents can have a big influence on whether their children read books or not.",
+         "conversation_theme": "Modern literature and popular authors"
+      },
+      {
+         "speaker_name": "Lisa",
+         "de_text": "Abschlie\u00dfend denke ich, dass es wichtig ist, dass wir den Autoren, die wir m\u00f6gen, unterst\u00fctzen und \u00fcber ihre B\u00fccher sprechen. Lesen kann uns wirklich helfen, die Welt um uns herum besser zu verstehen.",
+         "en_text": "In conclusion, I think it's important that we support the authors we like and talk about their books. Reading can really help us better understand the world around us.",
+         "conversation_theme": "Modern literature and popular authors"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Lisa",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Anna",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Max",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Felix",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Johannes",
+            "gender": "Male"
+         }
+      ]
+   }
+}

@@ -1,0 +1,96 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Klaus",
+         "de_text": "Hallo zusammen, ich finde es toll, dass wir heute \u00fcber Esskultur und Streetfood sprechen. Pers\u00f6nlich liebe ich Streetfood, weil ich es als eine der besten M\u00f6glichkeiten betrachte, lokale delikate Speisen zu genie\u00dfen.",
+         "en_text": "Hello everyone, I think it's great that today we are talking about food culture and street food. Personally, I love street food because I consider it one of the best ways to enjoy local delicacies.",
+         "conversation_theme": "Food culture and street food"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Ja, ich stimme dir zu. Streetfood ist auch f\u00fcr mich eine ausgezeichnete M\u00f6glichkeit, lokale K\u00fcche kennenzulernen. Ich finde jedoch, dass die Hygiene in vielen Stra\u00dfenk\u00fcchen ein Problem darstellt.",
+         "en_text": "Yes, I agree. Street food is also an excellent way for me to learn about local cuisine. However, I think that hygiene is a problem in many street kitchens.",
+         "conversation_theme": "Food culture and street food"
+      },
+      {
+         "speaker_name": "Hans",
+         "de_text": "Das stimmt. Ich habe auch Bedenken bez\u00fcglich der Sauberkeit in Stra\u00dfenk\u00fcchen. Es kann schwierig sein, das Niveau der Hygiene zu gew\u00e4hrleisten, das wir von traditionellen Restaurants gewohnt sind.",
+         "en_text": "That's true. I also have concerns regarding the cleanliness in street kitchens. It can be difficult to ensure the level of hygiene that we are accustomed to from traditional restaurants.",
+         "conversation_theme": "Food culture and street food"
+      },
+      {
+         "speaker_name": "Sophie",
+         "de_text": "Verstehe ich, aber wir sollten nicht alle Stra\u00dfenk\u00fcchen \u00fcber einen Kamm scheren. Ich glaube, dass viele Stra\u00dfenverk\u00e4ufer wirklich hart arbeiten, um ihre Kochbereiche sauber zu halten und gesundes Essen zu servieren.",
+         "en_text": "I understand, but we shouldn't generalize all street kitchens. I believe that many street vendors work really hard to keep their cooking areas clean and serve healthy food.",
+         "conversation_theme": "Food culture and street food"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Genau, ich denke, wir sollten die Stra\u00dfenk\u00fcchen als Chance f\u00fcr die lokale Bev\u00f6lkerung und f\u00fcr Foodies betrachten, um eine Vielfalt an k\u00f6stlichen, oft auch authentischen Speisen zu entdecken, die sonst vielleicht nicht so leicht zug\u00e4nglich w\u00e4ren. Durch das Essen auf der Stra\u00dfe kann man auch die Esskultur einer Stadt wirklich kennenlernen.",
+         "en_text": "Exactly, I think we should look at street kitchens as an opportunity for local people and foodies to discover a variety of delicious, often authentic, dishes that might not be easily accessible otherwise. Eating on the streets can also help us really get to know the food culture of a city.",
+         "conversation_theme": "Food culture and street food"
+      },
+      {
+         "speaker_name": "Klaus",
+         "de_text": "Hat jemand von euch ein Lieblingsgericht auf der Stra\u00dfe?",
+         "en_text": "Does anyone have a favorite dish on the street?",
+         "conversation_theme": "Food culture and street food"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "F\u00fcr mich ist es Pommes frites, ich wei\u00df, es ist nicht sehr exotisch, aber es ist so lecker, wenn es direkt auf der Stra\u00dfe zubereitet wird.",
+         "en_text": "For me it's french fries, I know it's not very exotic, but it's so delicious when it's prepared right on the street.",
+         "conversation_theme": "Food culture and street food"
+      },
+      {
+         "speaker_name": "Hans",
+         "de_text": "Ich w\u00fcrde sagen, die t\u00fcrkische Pide, ein Fladenbrot mit einer F\u00fcllung aus Lammfleisch und Gem\u00fcse, ist mein Favorit. Es ist so lecker und immer frisch zubereitet.",
+         "en_text": "I would say the Turkish Pide, a flatbread with a filling of lamb meat and vegetables, is my favorite. It's so delicious and always freshly made.",
+         "conversation_theme": "Food culture and street food"
+      },
+      {
+         "speaker_name": "Sophie",
+         "de_text": "Ich liebe Pad Thai, ein thail\u00e4ndisches Gericht aus gebratenen Nudeln, Ei, Tofu und Gem\u00fcse. Das ist mein absolutes Lieblingsgericht auf der Stra\u00dfe.",
+         "en_text": "I love Pad Thai, a Thai dish made with stir-fried noodles, egg, tofu, and vegetables. That's my absolute favorite street food dish.",
+         "conversation_theme": "Food culture and street food"
+      },
+      {
+         "speaker_name": "Klaus",
+         "de_text": "Hmm, das klingt alles sehr lecker. Ich denke, das Essen auf der Stra\u00dfe ist eine gro\u00dfartige M\u00f6glichkeit, eine Kultur durch ihre kulinarischen Traditionen kennenzulernen.",
+         "en_text": "Hmm, all of that sounds really delicious. I think eating on the streets is a great way to get to know a culture through its culinary traditions.",
+         "conversation_theme": "Food culture and street food"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Ja, auf jeden Fall. Wir sollten auch weiterhin dar\u00fcber nachdenken, wie wir die Stra\u00dfenk\u00fcchengemeinschaft unterst\u00fctzen k\u00f6nnen, um sicherzustellen, dass sie weiterhin in der Lage sind, k\u00f6stliches Streetfood zu servieren und die lokale Esskultur zu bereichern.",
+         "en_text": "Yes, definitely. We should also continue to think about how we can support the street kitchen community to ensure that they can continue to serve delicious street food and enrich the local food culture.",
+         "conversation_theme": "Food culture and street food"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Hans",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Klaus",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Sophie",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Anna",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Felix",
+            "gender": "Male"
+         }
+      ]
+   }
+}

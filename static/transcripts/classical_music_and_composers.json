@@ -1,0 +1,96 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Lea",
+         "de_text": "Ich liebe klassische Musik. Aber es gibt nicht genug weibliche Komponisten in der Branche.",
+         "en_text": "I love classical music. But there are not enough female composers in the industry.",
+         "conversation_theme": "Classical music and composers"
+      },
+      {
+         "speaker_name": "Charlotte",
+         "de_text": "Ja, das stimmt. Ich denke, es liegt daran, dass Frauen in der Vergangenheit weniger M\u00f6glichkeiten hatten, ihre Musik \u00f6ffentlich zu machen.",
+         "en_text": "Yes, that\u2019s true. I think it\u2019s because women historically had fewer opportunities to showcase their music.",
+         "conversation_theme": "Classical music and composers"
+      },
+      {
+         "speaker_name": "Sebastian",
+         "de_text": "Aber ich denke, dass sich die Musikbranche in den letzten Jahren sehr ver\u00e4ndert hat und es gibt mehr M\u00f6glichkeiten als fr\u00fcher.",
+         "en_text": "But I think the music industry has changed a lot in recent years and there are more opportunities now than before.",
+         "conversation_theme": "Classical music and composers"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Ich denke, es gibt viele gro\u00dfartige m\u00e4nnliche und weibliche Komponisten in der klassischen Musikwelt. Wie Edvard Grieg zum Beispiel, seine Musik ist einfach unglaublich.",
+         "en_text": "I think there are many great male and female composers in the classical music world. Like Edvard Grieg, his music is just incredible.",
+         "conversation_theme": "Classical music and composers"
+      },
+      {
+         "speaker_name": "Nico",
+         "de_text": "Ja, aber ich denke, es gibt auch viele Probleme in der Branche. Zum Beispiel sind die Ticketpreise f\u00fcr klassische Konzerte ziemlich hoch.",
+         "en_text": "Yes, but I think there are also many issues in the industry. For example, ticket prices for classical concerts are quite high.",
+         "conversation_theme": "Classical music and composers"
+      },
+      {
+         "speaker_name": "Lea",
+         "de_text": "Das stimmt. Aber ich denke, dass klassische Musik f\u00fcr alle Menschen zug\u00e4nglich sein sollte, unabh\u00e4ngig von ihrem Hintergrund oder Einkommen.",
+         "en_text": "That\u2019s true. But I think classical music should be accessible to everyone, regardless of their background or income.",
+         "conversation_theme": "Classical music and composers"
+      },
+      {
+         "speaker_name": "Charlotte",
+         "de_text": "Ich denke, es ist wichtig, dass wir uns daf\u00fcr einsetzen, dass klassische Musik ein Teil unseres kulturellen Erbes bleibt und dass wir sie der n\u00e4chsten Generation weitergeben.",
+         "en_text": "I think it's important that we work to ensure classical music remains part of our cultural heritage and that we pass it on to the next generation.",
+         "conversation_theme": "Classical music and composers"
+      },
+      {
+         "speaker_name": "Sebastian",
+         "de_text": "Absolut, ich denke, es geht darum, klassische Musik f\u00fcr zuk\u00fcnftige Generationen zug\u00e4nglich zu machen, denn sie hat so viel bedeutende Kulturgeschichte.",
+         "en_text": "Absolutely, I think it's about making classical music accessible to future generations, because it has so much important cultural history.",
+         "conversation_theme": "Classical music and composers"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Es ist auch wichtig zu erkennen, dass wir in einer globalen Welt leben und dass es gro\u00dfartige Komponisten aus verschiedenen L\u00e4ndern und Kulturen gibt, die geh\u00f6rt werden sollten.",
+         "en_text": "It is also important to recognize that we live in a global world and that there are great composers from different countries and cultures that should be heard.",
+         "conversation_theme": "Classical music and composers"
+      },
+      {
+         "speaker_name": "Nico",
+         "de_text": "Ja, absolut. Und klassische Musik ist auch ein wichtiger Teil des Filmmusikgenres, das viele Menschen auf der ganzen Welt h\u00f6ren.",
+         "en_text": "Yes, absolutely. And classical music is also an important part of film music genre that many people around the world listen to.",
+         "conversation_theme": "Classical music and composers"
+      },
+      {
+         "speaker_name": "Lea",
+         "de_text": "Ich denke wir sollten uns alle bem\u00fchen, mehr weibliche Komponisten und gleichzeitig die n\u00e4chste Generation daf\u00fcr zu begeistern, klassische Musik zu h\u00f6ren oder sogar selbst Musik zu machen.",
+         "en_text": "I think we should all strive to promote more female composers and at the same time inspire the next generation to listen to classical music or even make music themselves.",
+         "conversation_theme": "Classical music and composers"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Lea",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Charlotte",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Sebastian",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Felix",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Nico",
+            "gender": "Male"
+         }
+      ]
+   }
+}

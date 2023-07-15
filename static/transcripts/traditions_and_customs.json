@@ -1,0 +1,78 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Lena",
+         "de_text": "Hallo zusammen, wir haben das Thema Traditionen und Br\u00e4uche. Ich denke, wir alle haben eigene Erfahrungen damit gemacht. M\u00f6chte jemand anfangen?",
+         "en_text": "Hello everyone, we have the topic of traditions and customs. I think we have all had our own experiences with them. Does anyone want to start?",
+         "conversation_theme": "Traditions and customs"
+      },
+      {
+         "speaker_name": "Tobias",
+         "de_text": "Also ich habe kein Problem damit. Ich bin immer offen f\u00fcr neue Traditionen.",
+         "en_text": "Well, I don't have a problem with them. I'm always open to new traditions.",
+         "conversation_theme": "Traditions and customs"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Aber es gibt auch Traditionen, die nicht mehr zeitgem\u00e4\u00df sind oder sogar diskriminierend sein k\u00f6nnen. Ich denke da an zum Beispiel Zwangsheirat.",
+         "en_text": "But there are also traditions that are no longer contemporary, or even discriminatory. I'm thinking, for example, of forced marriage.",
+         "conversation_theme": "Traditions and customs"
+      },
+      {
+         "speaker_name": "Nico",
+         "de_text": "Ja, das stimmt. Wir m\u00fcssen unsere Traditionen und Br\u00e4uche hinterfragen und anpassen, wenn sie nicht mehr zeitgem\u00e4\u00df sind. Aber ich denke, dass es auch etwas Sch\u00f6nes ist, wenn man Traditionen weitergibt.",
+         "en_text": "Yes, that's true. We have to question and adapt our traditions and customs if they are no longer contemporary. But I also think it's something beautiful when we pass down traditions.",
+         "conversation_theme": "Traditions and customs"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Das sehe ich genauso. Traditionen zu bewahren kann auch helfen, unsere Identit\u00e4t und Kultur zu bewahren. Aber ich denke auch, dass wir offen sein sollten f\u00fcr neue Aspekte und Traditionen anderer Kulturen.",
+         "en_text": "I agree. Preserving traditions can also help us preserve our identity and culture. But I also think that we should be open to new aspects and customs from other cultures.",
+         "conversation_theme": "Traditions and customs"
+      },
+      {
+         "speaker_name": "Lena",
+         "de_text": "Ich denke, dass die Traditionen und Br\u00e4uche auch von Region zu Region unterschiedlich sein k\u00f6nnen. Ich komme aus Bayern und wir haben viele Br\u00e4uche, die es so nur bei uns gibt. Aber ich finde es auch interessant, andere Regionen und ihre Traditionen kennenzulernen.",
+         "en_text": "I think that the traditions and customs can also differ from region to region. I come from Bavaria and we have many customs that are unique to us. But I also find it interesting to learn about other regions and their traditions.",
+         "conversation_theme": "Traditions and customs"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Das ist auf jeden Fall richtig. Aber ich denke, wir m\u00fcssen auch darauf achten, welche Traditionen wir unterst\u00fctzen und welche nicht. Wenn eine Tradition diskriminierend oder sch\u00e4dlich ist, sollten wir sie nicht unterst\u00fctzen.",
+         "en_text": "That's definitely right. But I think we also have to pay attention to which traditions we support and which ones we don't. If a tradition is discriminatory or harmful, we should not support it.",
+         "conversation_theme": "Traditions and customs"
+      },
+      {
+         "speaker_name": "Tobias",
+         "de_text": "Ja, da gebe ich dir Recht. Wir m\u00fcssen kritisch hinterfragen, welche Traditionen wir weiterf\u00fchren m\u00f6chten und welche nicht.",
+         "en_text": "Yes, I agree with you. We have to critically question which traditions we want to continue and which ones we don't.",
+         "conversation_theme": "Traditions and customs"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Lena",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Anna",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Felix",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Tobias",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Nico",
+            "gender": "Male"
+         }
+      ]
+   }
+}

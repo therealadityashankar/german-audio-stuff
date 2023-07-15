@@ -1,0 +1,96 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Frieda",
+         "de_text": "Ich finde Wein sehr interessant. Es gibt so viele Sorten und Geschm\u00e4cker.",
+         "en_text": "I find wine very interesting. There are so many types and flavours.",
+         "conversation_theme": "Wine culture and festivals"
+      },
+      {
+         "speaker_name": "Sabine",
+         "de_text": "Ja, ich auch. Besonders auf Festivals kann man viele verschiedene Weine probieren.",
+         "en_text": "Yes, me too. Especially at festivals, you can try many different types of wines.",
+         "conversation_theme": "Wine culture and festivals"
+      },
+      {
+         "speaker_name": "Anja",
+         "de_text": "Ich war mal auf einem Weinfest, aber es war so \u00fcberf\u00fcllt und laut, dass ich es nicht genie\u00dfen konnte.",
+         "en_text": "I went to a wine festival once, but it was so overcrowded and loud that I couldn't enjoy it.",
+         "conversation_theme": "Wine culture and festivals"
+      },
+      {
+         "speaker_name": "Jakob",
+         "de_text": "Ich kenne das. Man muss fr\u00fch genug da sein, um die Menschenmassen zu vermeiden.",
+         "en_text": "I know what you mean. You have to arrive early enough to avoid the crowds.",
+         "conversation_theme": "Wine culture and festivals"
+      },
+      {
+         "speaker_name": "Lukas",
+         "de_text": "Aber das Beste an Wein ist die Kultur dahinter. Die Arbeit, die in jedem Tropfen steckt, ist unglaublich.",
+         "en_text": "But the best thing about wine is the culture behind it. The work that goes into each drop is incredible.",
+         "conversation_theme": "Wine culture and festivals"
+      },
+      {
+         "speaker_name": "Frieda",
+         "de_text": "Ich habe auch geh\u00f6rt, dass manche Weing\u00fcter immer noch mit Problemen wie Klimawandel und Arbeiterrechten zu k\u00e4mpfen haben.",
+         "en_text": "I have also heard that some wineries still struggle with issues like climate change and workers' rights.",
+         "conversation_theme": "Wine culture and festivals"
+      },
+      {
+         "speaker_name": "Sabine",
+         "de_text": "Ja, das ist traurig. Aber einige Betriebe sind auch daran interessiert, umweltfreundlichere Methoden zu verwenden.",
+         "en_text": "Yes, that is sad. But some businesses are also interested in using more environmentally friendly methods.",
+         "conversation_theme": "Wine culture and festivals"
+      },
+      {
+         "speaker_name": "Anja",
+         "de_text": "Und ich denke, dass es wichtig ist, den Menschen bewusst zu machen, woher ihr Wein kommt und unter welchen Umst\u00e4nden er produziert wurde.",
+         "en_text": "And I think it is important to make people aware of where their wine comes from and under what conditions it was produced.",
+         "conversation_theme": "Wine culture and festivals"
+      },
+      {
+         "speaker_name": "Jakob",
+         "de_text": "Auf jeden Fall. Es gibt so viel zu lernen und zu entdecken in der Welt des Weins.",
+         "en_text": "Definitely. There is so much to learn and discover in the world of wine.",
+         "conversation_theme": "Wine culture and festivals"
+      },
+      {
+         "speaker_name": "Lukas",
+         "de_text": "Und das Beste ist, dass es f\u00fcr jeden Geschmack und jedes Budget etwas gibt.",
+         "en_text": "And the best part is that there is something for every taste and budget.",
+         "conversation_theme": "Wine culture and festivals"
+      },
+      {
+         "speaker_name": "Frieda",
+         "de_text": "Ja, das stimmt. Ich denke, ich werde bald wieder an einem Weinfest teilnehmen.",
+         "en_text": "Yes, that's true. I think I will attend a wine festival again soon.",
+         "conversation_theme": "Wine culture and festivals"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 3,
+      "num_male_speakers": 2,
+      "speakers": [
+         {
+            "speaker": "Frieda",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Sabine",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Anja",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Jakob",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Lukas",
+            "gender": "Male"
+         }
+      ]
+   }
+}

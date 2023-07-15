@@ -1,0 +1,114 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Anna",
+         "de_text": "Gestern habe ich etwas Interessantes \u00fcber das Bildungssystem und Universit\u00e4ten geh\u00f6rt.",
+         "en_text": "Yesterday I heard something interesting about the education system and universities.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Katarina",
+         "de_text": "Oh, was hast du geh\u00f6rt?",
+         "en_text": "Oh, what did you hear?",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Ich habe geh\u00f6rt, dass viele Studenten \u00fcber den Mangel an praktischer Erfahrung klagen.",
+         "en_text": "I heard that many students complain about the lack of practical experience.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Thomas",
+         "de_text": "Das ist richtig, aber es h\u00e4ngt auch von der Art des Studiums ab.",
+         "en_text": "That's true, but it also depends on the type of degree.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Ich stimme Thomas zu. In meinem Studium gab es viele Praktika und Projekte.",
+         "en_text": "I agree with Thomas. In my degree program, there were many internships and projects.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Leon",
+         "de_text": "Ich bin anderer Meinung. In meinem Studium gab es kaum praktische Erfahrung.",
+         "en_text": "I disagree. There was hardly any practical experience in my degree program.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Katarina",
+         "de_text": "Ich denke, es h\u00e4ngt auch davon ab, was man aus dem Studium machen m\u00f6chte.",
+         "en_text": "I think it also depends on what one wants to do with their degree.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Das stimmt, aber es ist trotzdem wichtig, dass die Universit\u00e4ten den Studenten die M\u00f6glichkeit geben, praktische Erfahrung zu sammeln.",
+         "en_text": "That's true, but it's still important for universities to provide students with the opportunity to gain practical experience.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Thomas",
+         "de_text": "Ich denke, dass die Herausforderung darin besteht, die Theorie mit der Praxis zu verkn\u00fcpfen.",
+         "en_text": "I think the challenge is to connect theory with practice.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Das ist der Schl\u00fcssel zu einem erfolgreichen Studium und einer erfolgreichen Karriere.",
+         "en_text": "That's the key to a successful degree and a successful career.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Leon",
+         "de_text": "Aber was ist mit den Kosten f\u00fcr ein Studium?",
+         "en_text": "But what about the costs of a degree program?",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Katarina",
+         "de_text": "Das ist ein berechtigtes Anliegen. Das Bildungssystem sollte f\u00fcr alle zug\u00e4nglich und erschwinglich sein.",
+         "en_text": "That's a valid concern. The education system should be accessible and affordable for everyone.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Anna",
+         "de_text": "Ja, Bildung sollte ein Grundrecht sein und nicht nur f\u00fcr diejenigen zug\u00e4nglich sein, die es sich leisten k\u00f6nnen.",
+         "en_text": "Yes, education should be a basic right and not just accessible to those who can afford it.",
+         "conversation_theme": "Education system and universities"
+      },
+      {
+         "speaker_name": "Thomas",
+         "de_text": "Ich denke, dass Bildungseinrichtungen und Regierungen zusammenarbeiten sollten, um die Kosten f\u00fcr Studierende zu senken.",
+         "en_text": "I think educational institutions and governments should work together to reduce the costs for students.",
+         "conversation_theme": "Education system and universities"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Anna",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Johannes",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Katarina",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Thomas",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Leon",
+            "gender": "Male"
+         }
+      ]
+   }
+}

@@ -1,0 +1,96 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Sabine",
+         "de_text": "Hallo zusammen, ich m\u00f6chte heute \u00fcber Umweltaktivismus und Bewegungen sprechen. Was denkt ihr dar\u00fcber?",
+         "en_text": "Hi everyone, today I'd like to talk about environmental activism and movements. What are your thoughts on this?",
+         "conversation_theme": "Environmental activism and movements"
+      },
+      {
+         "speaker_name": "Klaus",
+         "de_text": "Ich denke, es ist eine sehr wichtige Sache. Als Gesellschaft m\u00fcssen wir unser Bestes tun, um unsere Umwelt zu sch\u00fctzen.",
+         "en_text": "I think it's a very important thing. As a society, we must do our best to protect our environment.",
+         "conversation_theme": "Environmental activism and movements"
+      },
+      {
+         "speaker_name": "Lena",
+         "de_text": "Ja, aber es gibt viele Probleme. Viele Menschen verstehen die Auswirkungen ihres Handelns auf die Umwelt nicht.",
+         "en_text": "Yes, but there are many problems. Many people don't understand the impact of their actions on the environment.",
+         "conversation_theme": "Environmental activism and movements"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Ich denke, es ist auch wichtig, dass Menschen verstehen, welche Rolle sie in dieser Bewegung spielen k\u00f6nnen.",
+         "en_text": "I think it's also important for people to understand what role they can play in this movement.",
+         "conversation_theme": "Environmental activism and movements"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "Ja, das stimmt. Aber es gibt auch viele Dinge, die ich an der Umweltaktivismus-Branche nicht mag.",
+         "en_text": "Yes, that's true. But there are also many things I don't like about the environmental activism industry.",
+         "conversation_theme": "Environmental activism and movements"
+      },
+      {
+         "speaker_name": "Sabine",
+         "de_text": "Was sind denn diese Dinge, Max?",
+         "en_text": "What are these things, Max?",
+         "conversation_theme": "Environmental activism and movements"
+      },
+      {
+         "speaker_name": "Max",
+         "de_text": "Nun, ich denke, manchmal kann es extrem werden. Einige Leute scheinen einfach zu versuchen, sich besser als andere zu f\u00fchlen.",
+         "en_text": "Well, I think sometimes it can get extreme. Some people just seem to be trying to feel better than others.",
+         "conversation_theme": "Environmental activism and movements"
+      },
+      {
+         "speaker_name": "Klaus",
+         "de_text": "Das stimmt, Max. Aber ich denke, dass es immer wichtig sein wird, \u00fcber Werte und Moral zu sprechen.",
+         "en_text": "That's true, Max. But I think it will always be important to talk about values and morality.",
+         "conversation_theme": "Environmental activism and movements"
+      },
+      {
+         "speaker_name": "Lena",
+         "de_text": "Ich denke, dass es auch wichtig ist, darauf hinzuweisen, wie Unternehmen die Umwelt beeinflussen.",
+         "en_text": "I think it's also important to point out how companies are impacting the environment.",
+         "conversation_theme": "Environmental activism and movements"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Aber es ist auch wichtig, realistisch zu sein, und zu wissen, dass Ver\u00e4nderungen nicht von heute auf morgen kommen werden.",
+         "en_text": "But it's also important to be realistic, and know that change won't happen overnight.",
+         "conversation_theme": "Environmental activism and movements"
+      },
+      {
+         "speaker_name": "Sabine",
+         "de_text": "Ich danke euch f\u00fcr diese Diskussion. Es ist sehr wichtig, offen und ehrlich \u00fcber diese Themen zu sprechen.",
+         "en_text": "Thank you for this discussion. It's very important to have open and honest conversations about these topics.",
+         "conversation_theme": "Environmental activism and movements"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Sabine",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Lena",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Max",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Klaus",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Johannes",
+            "gender": "Male"
+         }
+      ]
+   }
+}

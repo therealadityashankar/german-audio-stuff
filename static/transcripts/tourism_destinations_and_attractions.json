@@ -1,0 +1,122 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Hans",
+         "de_text": "Guten Morgen, habt ihr schonmal eine Reise gebucht bei einem Reiseb\u00fcro?",
+         "en_text": "Good morning, have any of you booked a trip with a travel agency before?",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Franziska",
+         "de_text": "Ja, ich schon. Es ist bequem aber manchmal etwas teurer als selbst zu buchen.",
+         "en_text": "Yes, I have. It's convenient but sometimes a bit more expensive than booking it on your own.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Sophie",
+         "de_text": "Ich bevorzuge selbst zu planen. Man kann sich genauer \u00fcber die Attraktionen informieren.",
+         "en_text": "I prefer to plan on my own. You can research more about the attractions.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Tobias",
+         "de_text": "Ich stimme dir zu Sophie, aber die Touristeninformationen vor Ort sind auch sehr hilfreich.",
+         "en_text": "I agree with you Sophie, but the tourist information centers at the destination are also very helpful.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Einige dieser Touristeninformationen verkaufen aber auch falsche Pauschalangebote.",
+         "en_text": "However, some of these tourist information centers also sell fake package deals.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Lena",
+         "de_text": "Das kann manchmal echt ein Problem sein. Man muss sehr vorsichtig sein.",
+         "en_text": "That can be a real problem sometimes. One has to be very careful.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Maximilian",
+         "de_text": "Aber es ist nicht nur das, manche Touristenorte sind so \u00fcberf\u00fcllt und zerst\u00f6ren dadurch die Natur.",
+         "en_text": "But it's not just that, some tourist destinations are too crowded and end up damaging the environment.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Hans",
+         "de_text": "Das stimmt Maximilian, aber wenn man zu weniger bekannten Orten reist, kann man auch ganz besondere Erfahrungen machen.",
+         "en_text": "That's true, Maximilian, but if you travel to lesser-known destinations, you can have unique experiences.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Franziska",
+         "de_text": "Ja! Ich habe einmal ein verlassenes Dorf am Rande einer Klippe gefunden. Der Ausblick vom Felsen aus war atemberaubend.",
+         "en_text": "Yes! I once found an abandoned village on the edge of a cliff. The view from the rock was breathtaking.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Johannes",
+         "de_text": "Das klingt wirklich unglaublich! Kannst du mir den Namen des Dorfes geben?",
+         "en_text": "That sounds really amazing! Can you give me the name of the village?",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Lena",
+         "de_text": "Lass mich raten, Franziska. Du willst die Besuchsanzahl gering halten, damit der Ort nicht \u00fcberlaufen wird.",
+         "en_text": "Let me guess, Franziska. You want to keep the number of visitors low so that the place doesn't get overcrowded.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Franziska",
+         "de_text": "Du hast vollkommen Recht! Ich werde dir den Namen pers\u00f6nlich sagen, Johannes.",
+         "en_text": "You're absolutely right! I will tell you the name personally, Johannes.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Sophie",
+         "de_text": "Ich denke, das ist eine gro\u00dfartige M\u00f6glichkeit das Beste aus beiden Welten zu haben.",
+         "en_text": "I think that's a great way to have the best of both worlds.",
+         "conversation_theme": "Tourism destinations and attractions"
+      },
+      {
+         "speaker_name": "Tobias",
+         "de_text": "Ja, und wenn wir alle mehr R\u00fccksicht auf die Umwelt nehmen, k\u00f6nnen wir noch viele solcher Erlebnisse haben.",
+         "en_text": "Yes, and if we all take more care of the environment, we can have many more such experiences.",
+         "conversation_theme": "Tourism destinations and attractions"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 3,
+      "num_male_speakers": 4,
+      "speakers": [
+         {
+            "speaker": "Hans",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Franziska",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Sophie",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Tobias",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Johannes",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Lena",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Maximilian",
+            "gender": "Male"
+         }
+      ]
+   }
+}

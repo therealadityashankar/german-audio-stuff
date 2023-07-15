@@ -1,0 +1,80 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Lena",
+         "de_text": "Was ist eure Meinung zu zeitgen\u00f6ssischer Fotografie und K\u00fcnstlern?",
+         "en_text": "What is your opinion on contemporary photography and artists?",
+         "conversation_theme": "Contemporary photography and artists"
+      },
+      {
+         "speaker_name": "Sven",
+         "de_text": "Es ist erstaunlich, wie viel sich in der Fotografieindustrie in den letzten Jahrzehnten ver\u00e4ndert hat. Es gibt bereits viele talentierte zeitgen\u00f6ssische Fotografen auf der ganzen Welt, die sich auf verschiedene Arten von Fotografie spezialisiert haben.",
+         "en_text": "It's amazing how much has changed in the photography industry over the last few decades. There are already many talented contemporary photographers around the world specializing in different types of photography.",
+         "conversation_theme": "Contemporary photography and artists"
+      },
+      {
+         "speaker_name": "Sebastian",
+         "de_text": "Ja, aber es gibt auch Probleme. Ich denke, dass es schwierig sein kann, in der Industrie Erfolg zu haben, besonders wenn man kein einzigartiges Konzept oder eine einzigartige Perspektive hat.",
+         "en_text": "Yes, but there are also problems. I think it can be difficult to succeed in the industry, especially if one does not have a unique concept or perspective.",
+         "conversation_theme": "Contemporary photography and artists"
+      },
+      {
+         "speaker_name": "Jana",
+         "de_text": "Ich stimme zu, aber ich denke, dass momentan viele Fotografen erfolgreich sind, die ihre Arbeit \u00fcber soziale Medien und das Internet vermarkten. Es ist definitiv ein Vorteil, wenn man wei\u00df, wie man die Online-Plattformen nutzen kann.",
+         "en_text": "I agree, but I think that currently, many photographers are succeeding by marketing their work through social media and the internet. It's definitely an advantage to know how to utilize online platforms.",
+         "conversation_theme": "Contemporary photography and artists"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Ich denke, dass zeitgen\u00f6ssische Fotografie es den K\u00fcnstlern erm\u00f6glicht, schwierige oder kontroverse Themen anzusprechen, die m\u00f6glicherweise in der Vergangenheit schwer zu erfassen gewesen w\u00e4ren.",
+         "en_text": "I think that contemporary photography allows artists to address difficult or controversial subjects that may have been difficult to capture in the past.",
+         "conversation_theme": "Contemporary photography and artists"
+      },
+      {
+         "speaker_name": "Hannah",
+         "de_text": "Das stimmt definitiv. Au\u00dferdem gibt es jetzt viel unterschiedliche Arten von Fotografie, wie zum Beispiel Drohnenfotografie oder Streetfotografie, die vorher vielleicht nicht so popul\u00e4r waren.",
+         "en_text": "That's definitely true. Additionally, there are now many different types of photography, such as drone photography or street photography, that may not have been as popular before.",
+         "conversation_theme": "Contemporary photography and artists"
+      },
+      {
+         "speaker_name": "Alexander",
+         "de_text": "Es ist interessant zu sehen, wie Technologie die Fotografieindustrie beeinflusst hat. Und nat\u00fcrlich gibt es immer noch viele klassische Fotografen, die ihre Arbeit auf eine Weise machen, die zeitlos ist.",
+         "en_text": "It's interesting to see how technology has affected the photography industry. And of course, there are still many classic photographers who create their work in a way that is timeless.",
+         "conversation_theme": "Contemporary photography and artists"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 3,
+      "num_male_speakers": 4,
+      "speakers": [
+         {
+            "speaker": "Lena",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Sven",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Sebastian",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Jana",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Felix",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Hannah",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Alexander",
+            "gender": "Male"
+         }
+      ]
+   }
+}

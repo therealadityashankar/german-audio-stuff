@@ -1,0 +1,96 @@
+{
+   "conversation": [
+      {
+         "speaker_name": "Marie",
+         "de_text": "Hey Leute, was haltet ihr von dem neuesten Trend in der Modebranche?",
+         "en_text": "Hey guys, what do you think of the latest trend in the fashion industry?",
+         "conversation_theme": "Fashion icons and trends"
+      },
+      {
+         "speaker_name": "Sophie",
+         "de_text": "Welchen Trend meinst du denn Marie?",
+         "en_text": "Which trend are you talking about Marie?",
+         "conversation_theme": "Fashion icons and trends"
+      },
+      {
+         "speaker_name": "Marie",
+         "de_text": "Naja, die ganzen Influencer auf sozialen Medien - Sie haben so viel Einfluss auf die Branche und was als trendy gilt.",
+         "en_text": "Well, all the influencers on social media - They have so much influence on the industry and what's considered trendy.",
+         "conversation_theme": "Fashion icons and trends"
+      },
+      {
+         "speaker_name": "Lukas",
+         "de_text": "Aber oft sind diese Trends f\u00fcr die meisten von uns nicht wirklich zug\u00e4nglich - nur ein kleiner Prozentsatz kann sich teure Designerkleidung leisten.",
+         "en_text": "But often these trends aren't really accessible for most of us - only a small percentage can afford expensive designer clothing.",
+         "conversation_theme": "Fashion icons and trends"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Ja, du hast Recht. Ich denke, es gibt jedoch eine Verschiebung in Richtung Nachhaltigkeit und Ethik in der Modebranche.",
+         "en_text": "Yeah, you're right. However, I think there's a shift towards sustainability and ethics in the fashion industry.",
+         "conversation_theme": "Fashion icons and trends"
+      },
+      {
+         "speaker_name": "J\u00fcrgen",
+         "de_text": "Aber das ist nicht so einfach umzusetzen. Es gibt immer noch gro\u00dfe Marken, die unmoralisch produzieren und billige Arbeitskr\u00e4fte ausnutzen.",
+         "en_text": "But that's not so easy to implement. There are still big brands that produce unethically and exploit cheap labor.",
+         "conversation_theme": "Fashion icons and trends"
+      },
+      {
+         "speaker_name": "Marie",
+         "de_text": "Ich stimme dir zu, J\u00fcrgen, aber ich denke, es ist wichtig, dass wir als Konsumenten versuchen, unsere Macht zu nutzen und f\u00fcr nachhaltige Marken und Unternehmen zu stimmen.",
+         "en_text": "I agree with you, J\u00fcrgen, but I think it's important that we as consumers try to use our power and vote for sustainable brands and companies.",
+         "conversation_theme": "Fashion icons and trends"
+      },
+      {
+         "speaker_name": "Sophie",
+         "de_text": "Ich denke auch, dass es wichtig ist, Trends zu hinterfragen und unseren eigenen Stil zu entwickeln. Es geht nicht nur darum, was gerade in ist.",
+         "en_text": "I also think it's important to question trends and develop our own style. It's not just about what's currently in.",
+         "conversation_theme": "Fashion icons and trends"
+      },
+      {
+         "speaker_name": "Lukas",
+         "de_text": "Richtig, das ist der Trick. Wir sollten uns darauf konzentrieren, Kleidung zu tragen, die wir lieben und die uns gut aussehen l\u00e4sst - unabh\u00e4ngig von Trends.",
+         "en_text": "Exactly, that's the trick. We should focus on wearing clothes we love and that make us look good - regardless of trends.",
+         "conversation_theme": "Fashion icons and trends"
+      },
+      {
+         "speaker_name": "Felix",
+         "de_text": "Das stimmt. Ich denke auch, dass es wichtig ist, Kleidung als Ausdruck unserer Identit\u00e4t zu betrachten und uns in ihnen wohl zu f\u00fchlen.",
+         "en_text": "That's true. I also think it's important to consider clothing as an expression of our identity and to feel comfortable in them.",
+         "conversation_theme": "Fashion icons and trends"
+      },
+      {
+         "speaker_name": "J\u00fcrgen",
+         "de_text": "Ich stimme allen Punkten zu. Die Modebranche kann kompliziert sein, aber wir sollten uns auf das konzentrieren, was uns wichtig ist.",
+         "en_text": "I agree with all the points. The fashion industry can be complicated, but we should focus on what's important to us.",
+         "conversation_theme": "Fashion icons and trends"
+      }
+   ],
+   "speakers": {
+      "num_female_speakers": 2,
+      "num_male_speakers": 3,
+      "speakers": [
+         {
+            "speaker": "Marie",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Sophie",
+            "gender": "Female"
+         },
+         {
+            "speaker": "Lukas",
+            "gender": "Male"
+         },
+         {
+            "speaker": "Felix",
+            "gender": "Male"
+         },
+         {
+            "speaker": "J\u00fcrgen",
+            "gender": "Male"
+         }
+      ]
+   }
+}
